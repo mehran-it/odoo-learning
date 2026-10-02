@@ -32,3 +32,11 @@ A remote is a reference to another repository, such as GitHub.
 - `git push` — Upload commits to GitHub.
 - `git pull` — Fetch and integrate remote changes.
 - `git clone` — Copy a remote repository locally.
+
+## 10. My First GitHub Milestone
+
+I created my GitHub repository and connected it to my Windows computer.
+
+I practiced creating a file, staging changes, committing changes, and pushing my work to GitHub.
+
+Next goal: Learn branches and build practical Python and Odoo projects.
